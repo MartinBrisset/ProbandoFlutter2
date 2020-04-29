@@ -27,9 +27,9 @@
             "texto": "Inputs"
         },
         {
-            "ruta" : "list",
-            "icon" : "list",
-            "texto": "Sliders"
+            "ruta" : "slider",
+            "icon" : "tune",
+            "texto": "Sliders - Checks"
         }
     ]
 }
